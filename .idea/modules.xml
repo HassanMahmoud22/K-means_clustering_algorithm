@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/20180088_DataMiningAss2.iml" filepath="$PROJECT_DIR$/20180088_DataMiningAss2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/K-means_clustering_algorithm.iml" filepath="$PROJECT_DIR$/K-means_clustering_algorithm.iml" />
     </modules>
   </component>
 </project>
